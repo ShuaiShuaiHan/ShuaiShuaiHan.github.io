@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.A{
+	margin-left:200px;
+}
+		
+.B{
+	width:800px;
+	font-family:"仿宋", "宋体", "新宋体";
+	margin-left:200px;
+}
+.B{
+	width:800px;
+	font-family:"仿宋", "宋体", "新宋体";
+	margin-left:200px;
+}
+.C{
+	width:800px;
+	font-family:"仿宋", "宋体", "新宋体";
+	margin-left:200px;
+	margin-top:15px;
+}
+.D{
+	margin-left:800px;
+	font-family:"楷体", "微软雅黑", "新宋体";
+	font-size:45px;
+	color:#790000;
+}
